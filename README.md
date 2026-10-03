@@ -9,6 +9,7 @@ Objective: Evaluate whether real estate investments in Alexandria serve as effec
 Data Period: Q4 2019 – Q3 2024 (20 quarters)
 Portfolio Size: 10+ investment units across 2 major projects
 Investment Type: Off-plan residential apartments with installment-based financing
+for powerbi Dashbord visit the blog: https://theanalyticsolution.wixsite.com/analytic-solution/post/dynamic-investment-calculator-dashboard
 
 Methodology
 Data Sources
